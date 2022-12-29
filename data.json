@@ -1,4 +1,4 @@
-{
+[
 	{
 		"color": "red",
 		"value": "#f00"
@@ -7,4 +7,4 @@
 		"color": "green",
 		"value": "#0f0"
 	}
-}
+]
