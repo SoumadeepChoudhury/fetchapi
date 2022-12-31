@@ -1,10 +1,37 @@
 [
 	{
-		"color": "red",
-		"value": "#f00"
+		"question": "Write a program to reverse an integer (any number of digits) in Python using for loop. You can not use string reversing technique. Eg: userinput 2345, output will be 5432.",
+		"extension": "py"
 	},
 	{
-		"color": "green",
-		"value": "#0f0"
+		"question": "Write a program to get the fibonacci series without iterations. Program should be dynamic. Eg: Output should be printed in single line comma separated.",
+		"extension": "py"
+	},
+	{
+		"question": "Write a Python program to print the string in ascending order without using builtin functions. Eg: Input is 'python', Output is 'honpty'. OR Write a Python Program to find GCD of two numbers without iterations.",
+		"extension": "py"
+	},
+	{
+		"question": "Write a python program to read data from a DATA.txt file and get the count of occurance of each word and store in a dictionary and write the dictionary into another binary file DATA.dat. Eg: If DATA.txt has the following text: 'Hello, I am Fine. Hello, You are fine.' The data to be stored in binary file is {'Hello':2,'I':1,'am':1,'Fine':2,'You':1,'are':1}. Note 'Fine' and 'fine' in the above example is considered same and count is 2 and while writing into another file the first occurance is considered. Here 'Fine' is before 'fine' therefore 'Fine':2 AND NOT 'fine':2. Al the end of your code you have to write the time conplexity of your code using single line comments in python.",
+		"extension": "py"
+	},
+	{
+		"question": "Explain LAN, WAN, MAN, AND PAN with ranges if possible in more than 30 words for each topic.",
+		"extension": "txt"
+	},
+	{
+		"question": "Write the full form of SQL and Write use of the foreign key and the syntax to define it in MySQL.",
+		"extension": "txt"
+	},
+	{
+		"question": "Mention two categories in which MySQL commands are broadly classified. Write the UPDATE statement in MySQL to increase price by 110.00 in the 'Price' column in the 'MARKET' table. Note: Here the 'MARKET' table is not required to view in order to answer this.",
+		"extension": "txt"
+	},
+	{
+		"question": "Mr. Smart wants to remove all the rows from DISCO table to release the storage space, but he does not want to remove the structure of the table. What MySQL statement should be used?",
+		"extension": "txt"
+	},
+	{
+		"meet": "yxu-qfqj-rqc"
 	}
 ]
